@@ -40,12 +40,23 @@
               "codePush": {},
               "container": {
                 "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
+                "miniApps": [
+                  "@tranducduong1994/shopping-list-miniapp@0.0.1"
+                ],
+                "nativeDeps": [
+                  "ernnavigation-api-impl-native@1.6.10",
+                  "ernnavigation-api@1.3.0",
+                  "react-native-electrode-bridge@1.5.27",
+                  "react-native@0.64.0"
+                ],
+                "ernVersion": "0.48.4"
               },
               "isReleased": false,
               "nativeDeps": [],
-              "yarnLocks": {}
+              "yarnLocks": {
+                "container": "103304da-fba8-41d0-a746-d3f0d6c682fc"
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         }
