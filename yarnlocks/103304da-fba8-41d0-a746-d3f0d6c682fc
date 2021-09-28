@@ -939,12 +939,13 @@
     merge-deep "^3.0.2"
     svgo "^1.2.2"
 
-"@tranducduong1994/shopping-list-miniapp@0.0.1":
-  version "0.0.1"
-  resolved "https://npm.pkg.github.com/download/@tranducduong1994/shopping-list-miniapp/0.0.1/2868251769eb5b914344feb46e267ef408de9cbf5718c650f14a9b083bd702eb#10bf7210ed63d3b0fe3107d1c7ce646ba630a46c"
-  integrity sha512-eZaHeBOWReI9L6YQ9oafadOj8UWebjwAxu53kpqbTd6U3Oi6bEr78wxD1e7CZcbnjOt8J2ukZdbIRl+FDAfOAw==
+"@tranducduong1994/shopping-list-miniapp@0.0.2":
+  version "0.0.2"
+  resolved "https://npm.pkg.github.com/download/@tranducduong1994/shopping-list-miniapp/0.0.2/b1ed74c2a88507701715c4c8d029ec32fe773eb80b4fa50e4a57fae20e3ff85d#e4ab82a03e583643282f31353c2a7e5916618259"
+  integrity sha512-I8V1xIX3iP15sqI7irdGsOI7SuyfISZGNoSRLqUMTD6MjxESCWOTA481UlA3XpW7eeIERtWnxVidxzJCfVTtHg==
   dependencies:
     ern-navigation "1.2.4"
+    lodash "4.17.21"
     react "17.0.1"
     react-native "0.64.0"
 
@@ -2852,7 +2853,7 @@ lodash.throttle@^4.1.1:
   resolved "https://registry.yarnpkg.com/lodash.throttle/-/lodash.throttle-4.1.1.tgz#c23e91b710242ac70c37f1e1cda9274cc39bf2f4"
   integrity sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ=
 
-lodash@^4.17.14, lodash@^4.17.15:
+lodash@4.17.21, lodash@^4.17.14, lodash@^4.17.15:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
